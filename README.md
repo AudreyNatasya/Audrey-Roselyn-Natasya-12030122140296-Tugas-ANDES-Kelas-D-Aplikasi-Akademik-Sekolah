@@ -106,13 +106,16 @@ Basis Data Siswa: Menyimpan dan mengelola informasi pribadi, akademis, dan lainn
 
 ### Screenshot Tampilan Aplikasi Sistem Informasi Sekolah
 ### Halaman Login 👇
+![login sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/da12703c-b2c1-4f21-8333-92d81763001a)
 - Halaman login membantu melindungi data sensitif dan pribadi siswa, guru, dan staf sekolah. Hanya pengguna yang memiliki izin yang dapat mengakses informasi yang tersimpan dalam sistem.
 - Proses login memastikan bahwa pengguna yang mencoba mengakses aplikasi adalah orang yang seharusnya. Ini dilakukan melalui penggunaan kombinasi nama pengguna (username) dan kata sandi (password), atau metode autentikasi lainnya seperti verifikasi dua faktor.
 
 ### Halaman dashboard 👇
+![dashboard sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/828f580c-0806-4179-a4f5-90dfc9f287ba)
 Memberikan informasi tentang jumlah siswa, jumlah mata pelajaran, jumlah guru dan jumlah kelas.
 
 ### Halaman List Jurusan 👇
+![list jurusan sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/d78a848c-071a-48fc-a0b4-f6cf53ea5887)
 Halaman "List Jurusan" dalam aplikasi akademik sekolah memiliki beberapa fungsi penting untuk membantu pengelolaan dan pemantauan data terkait jurusan-jurusan yang tersedia di sekolah. Berikut adalah beberapa fungsi umum dari halaman "List Jurusan" dalam aplikasi akademik sekolah:
 
 - Pendaftaran dan Informasi Jurusan:
@@ -123,22 +126,31 @@ Menyediakan informasi terkait setiap jurusan, seperti deskripsi singkat, tujuan,
 Memudahkan siswa dalam memilih jurusan yang sesuai dengan minat, bakat, dan tujuan karir mereka.
 
 ### Halaman List Mata Pelajaran 👇
+![List mata pelajaran sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/4c8a6b0d-0315-4169-8fdd-77f26b601b80)
 Halaman ini menyediakan informasi terkait setiap daftar-daftar mata pelajaran yang ada di sebuah sekolah sesuai dengan jurusan yang siswa ambil.
 
 ### Halaman List Guru 👇
+![list guru sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/eb330e91-32b4-4b1e-a08f-20758097dec7)
 Halaman ini menyediakan informasi terkait daftar-daftar guru yang ada di sekolah. 
 Halaman ini juga memberikan informasi tentang mata pelajaran yang diajarkan oleh guru tersebut.
 
 ### Halaman List Kelas 👇
+![list kelas sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/1075c3d5-dcb4-4eda-8fee-299d0e83873b)
 Halaman ini menyediakan informasi terkait kelas-kelas yang ada mulai dari kelas X IPA IPS sampai kelas XII IPA IPS.
 Halaman ini juga memberikan informasi tentang siapa wali kelas yang ada di kelas-kelas tersebut.
 
 ### Halaman List Siswa 👇
+![list siswa sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/b6fa8445-2b16-4d7d-93c9-d7a3abe0b7c2)
 Halaman ini menyediakan informasi terkait siswa-siswa yang terdaftar di sekolah tersebut.
 Halaman ini juga memberikan informasi mengenai nama, NIS, dan kelas dari setiap siswa-siswa tersebut.
 
 ### Halaman List Jadwal 👇
+![list jadwal sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/24f9a3b5-f378-473f-b2cd-8a2851fd61cb)
 Halaman ini menyediakan informasi terkait jadwal-jadwal mata pelajaran yang ada di sekolah tersebut.
 Halaman ini juga memberikan informasi mengenai mata pelajaran, kelas, hari, jam mulai dan jam kelas
+
+### Halaman List User 👇
+![list user sekolah](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Tugas-ANDES-Kelas-D-Aplikasi-Akademik-Sekolah/assets/152130643/37c5aea1-4c18-40d6-81a9-e84e9ea42da3)
+Halaman ini menyediakan informasi terkait siapa-siapa aja pengguna yang memakai aplikasi akademik sekolah ini. 
 
 

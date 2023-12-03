@@ -94,3 +94,20 @@ Siswa
 
 - Fitur Pembayaran Sekolah via Midtrans (Premium)
 
+### Aplikasi Sistem Informasi Akademik Sekolah
+Aplikasi Sistem Informasi Sekolah (SIS) memiliki berbagai fungsi yang mendukung pengelolaan dan operasional sekolah secara efisien. Berikut beberapa fungsi utama dari aplikasi Sistem Informasi Sekolah
+1. Manajemen Data Siswa:
+Basis Data Siswa: Menyimpan dan mengelola informasi pribadi, akademis, dan lainnya mengenai setiap siswa.
+
+2. Manajemen Data Guru dan Karyawan:
+- Pemantauan Kinerja Guru: Melacak kinerja dan kehadiran guru.
+- Informasi Karyawan: Menyimpan data dan informasi mengenai guru dan karyawan sekolah (Nama guru, NIP, dan mata pelajaran yang dikuasai)
+- 
+3. Manajemen Kurikulum:
+- Pengelolaan Program Pembelajaran: Membantu menyusun dan melacak program pembelajaran.
+- Penjadwalan Pelajaran: Membantu dalam penyusunan jadwal pelajaran.
+
+4. Manajemen Nilai dan Absensi:
+- Input Nilai: Memudahkan proses penginputan dan perhitungan nilai siswa.
+- Absensi Siswa: Merekam dan melacak kehadiran siswa.
+

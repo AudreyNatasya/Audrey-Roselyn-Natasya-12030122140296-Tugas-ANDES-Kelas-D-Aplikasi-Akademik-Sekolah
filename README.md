@@ -20,13 +20,6 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 - CRUD Jadwal Sekolah
 
 
-## Screenshots
-
-![Login](https://i.ibb.co/QrvFVsq/download.png)
-
-![Dashboard](https://i.ibb.co/4Vvff5F/Screenshot-3.jpg)
-
-
 ## Instalasi
 
 clone project atau download
@@ -110,4 +103,42 @@ Basis Data Siswa: Menyimpan dan mengelola informasi pribadi, akademis, dan lainn
 4. Manajemen Nilai dan Absensi:
 - Input Nilai: Memudahkan proses penginputan dan perhitungan nilai siswa.
 - Absensi Siswa: Merekam dan melacak kehadiran siswa.
+
+### Screenshot Tampilan Aplikasi Sistem Informasi Sekolah
+### Halaman Login 👇
+- Halaman login membantu melindungi data sensitif dan pribadi siswa, guru, dan staf sekolah. Hanya pengguna yang memiliki izin yang dapat mengakses informasi yang tersimpan dalam sistem.
+- Proses login memastikan bahwa pengguna yang mencoba mengakses aplikasi adalah orang yang seharusnya. Ini dilakukan melalui penggunaan kombinasi nama pengguna (username) dan kata sandi (password), atau metode autentikasi lainnya seperti verifikasi dua faktor.
+
+### Halaman dashboard 👇
+Memberikan informasi tentang jumlah siswa, jumlah mata pelajaran, jumlah guru dan jumlah kelas.
+
+### Halaman List Jurusan 👇
+Halaman "List Jurusan" dalam aplikasi akademik sekolah memiliki beberapa fungsi penting untuk membantu pengelolaan dan pemantauan data terkait jurusan-jurusan yang tersedia di sekolah. Berikut adalah beberapa fungsi umum dari halaman "List Jurusan" dalam aplikasi akademik sekolah:
+
+- Pendaftaran dan Informasi Jurusan:
+Memuat daftar lengkap jurusan yang tersedia di sekolah.
+Menyediakan informasi terkait setiap jurusan, seperti deskripsi singkat, tujuan, dan mata pelajaran yang diajarkan.
+
+-Pemilihan Jurusan:
+Memudahkan siswa dalam memilih jurusan yang sesuai dengan minat, bakat, dan tujuan karir mereka.
+
+### Halaman List Mata Pelajaran 👇
+Halaman ini menyediakan informasi terkait setiap daftar-daftar mata pelajaran yang ada di sebuah sekolah sesuai dengan jurusan yang siswa ambil.
+
+### Halaman List Guru 👇
+Halaman ini menyediakan informasi terkait daftar-daftar guru yang ada di sekolah. 
+Halaman ini juga memberikan informasi tentang mata pelajaran yang diajarkan oleh guru tersebut.
+
+### Halaman List Kelas 👇
+Halaman ini menyediakan informasi terkait kelas-kelas yang ada mulai dari kelas X IPA IPS sampai kelas XII IPA IPS.
+Halaman ini juga memberikan informasi tentang siapa wali kelas yang ada di kelas-kelas tersebut.
+
+### Halaman List Siswa 👇
+Halaman ini menyediakan informasi terkait siswa-siswa yang terdaftar di sekolah tersebut.
+Halaman ini juga memberikan informasi mengenai nama, NIS, dan kelas dari setiap siswa-siswa tersebut.
+
+### Halaman List Jadwal 👇
+Halaman ini menyediakan informasi terkait jadwal-jadwal mata pelajaran yang ada di sekolah tersebut.
+Halaman ini juga memberikan informasi mengenai mata pelajaran, kelas, hari, jam mulai dan jam kelas
+
 
